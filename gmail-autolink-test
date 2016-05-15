@@ -1,0 +1,7 @@
+* [href]:not([style]),
+[x-apple-data-detectors],
+[href^="tel"],
+[href^="sms"] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
