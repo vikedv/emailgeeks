@@ -1,1 +1,1 @@
-# #emailgeeks resources
+# Resources
