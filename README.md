@@ -1,10 +1,14 @@
 # Resources
 
 ### Wrappers
-Code outside of, and including `<body>`. 
+Code outside of, and including `<body>`. Does not include CSS for the more advanced Elements. 
 
 ### Elements
-Snippets, meant to be inside of `<body>`.
+Snippets, meant to be inside of `<body>`. 
 
 ### CSS
-Ad hoc CSS code snippets to keep default wrappers at a low count.
+CSS code snippets for the more advanced Elements.
+
+***
+
+I also welcome suggestions on workflow (compiling, ESP integration, API) 
