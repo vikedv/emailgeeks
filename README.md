@@ -1,3 +1,7 @@
 # Resources
 
-### [Wrappers](https://github.com/vikedv/emailgeeks/wrappers)
+### Wrappers
+All things not between `<body>` and `</body>`
+
+### Elements
+The rest of 'em
