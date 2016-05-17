@@ -1,7 +1,10 @@
 # Resources
 
 ### Wrappers
-All things not between `<body>` and `</body>`
+Code outside of, and including `<body>`. 
 
 ### Elements
-The rest of 'em
+Snippets, meant to be inside of `<body>`.
+
+### CSS
+Ad hoc CSS code snippets to keep default wrappers at a low count.
