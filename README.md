@@ -1,3 +1,5 @@
+![alt tag](https://raw.githubusercontent.com/vikedv/emailgeeks/master/logo.png)
+
 # Resources
 
 ## The go-to resource for modern HTML email development 
