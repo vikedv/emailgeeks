@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/vikedv/emailgeeks/master/logo.png)
+![alt tag](logo.png)
 
 # Resources
 
